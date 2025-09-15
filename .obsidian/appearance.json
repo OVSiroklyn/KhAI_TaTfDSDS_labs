@@ -1,0 +1,6 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tables_margin_remove"
+  ]
+}

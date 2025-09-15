@@ -1,0 +1,29 @@
+/*пробіл перед таблицею*/
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+    display: none;
+}
+
+/*відступи навколо таблиці*/
+.cm-embed-block.cm-table-widget.markdown-rendered {
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+/*центрувавння по висоті в таблиці*/
+.markdown-source-view.mod-cm6 .cm-table-widget .table-cell-wrapper {
+    display: grid;
+    align-items: center;
+}
+
+/*прибрати зайві відступи в таблиці*/
+th:has(> .media-embed),
+    .cm-table-widget th .table-cell-wrapper:has(.media-embed.is-loaded) {
+    padding: 2px;
+    line-height: 0;
+}
+
+/*.markdown-source-view.mod-cm6 .internal-embed {
+    height: auto;
+    display: block;
+}*/
