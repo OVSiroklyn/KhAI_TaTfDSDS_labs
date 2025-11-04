@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("_Додатково/_Файли")
+    image: file.file
+    imageFit: contain
+    cardSize: 260

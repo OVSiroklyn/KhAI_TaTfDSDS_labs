@@ -4,26 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f70af4e8a1853d62",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6267315e61e30864",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "lab1/Lab #1- Register with Cloud Providers - AWS-AWS Educate-Microsoft Azure.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lab #1- Register with Cloud Providers - AWS-AWS Educate-Microsoft Azure"
-            }
-          }
-        ]
-      },
-      {
         "id": "17d127080d0bfc9e",
         "type": "tabs",
+        "dimension": 49.260355029585796,
         "children": [
           {
             "id": "4bcbdb854c934fc8",
@@ -31,12 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab1/lab1.md",
+                "file": "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab1"
+              "title": "Lab - IaaS - Початок роботи з Microsoft Azure VM"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0dba9e46bb7800f",
+        "type": "tabs",
+        "dimension": 50.739644970414204,
+        "children": [
+          {
+            "id": "16c3442123fa1b68",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "lab2/Lab - IaaS - Getting started with AWS EC2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lab - IaaS - Getting started with AWS EC2"
             }
           }
         ]
@@ -96,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.50072860717773
   },
   "right": {
     "id": "d41760bf46197bf7",
@@ -165,6 +167,20 @@
               "icon": "lucide-list",
               "title": "Вміст"
             }
+          },
+          {
+            "id": "0190994bbc19b5cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
           }
         ]
       }
@@ -175,18 +191,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Почати/зупинити запис": false,
+      "workspaces:Керування просторами": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6267315e61e30864",
+  "active": "4bcbdb854c934fc8",
   "lastOpenFiles": [
+    "_Додатково/_Файли/Без назви.base",
+    "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.md",
+    "_Додатково/_Файли/Pasted image 20251104020307.png",
+    "lab2/Lab - IaaS - Getting started with AWS EC2.pdf",
+    "_Додатково/_Файли/Pasted image 20251104151703.png",
+    "_Додатково/_Файли/Pasted image 20251104151817.png",
+    "_Додатково/_Файли/Pasted image 20251103231338.png",
+    "_Додатково/_Файли/Pasted image 20251103231754.png",
+    "_Додатково/_Файли/Pasted image 20250916223424.png",
+    "_Додатково/_Файли/Pasted image 20251104151952.png",
+    "_Додатково/_Файли/Pasted image 20251104151918.png",
+    "_Додатково/_Файли/Pasted image 20251104151750.png",
+    "Lab.md",
+    "_Додатково/_Файли/Pasted image 20251104150347.png",
+    "lab1/Lab #1- Register with Cloud Providers - AWS-AWS Educate-Microsoft Azure.pdf",
     "lab1/lab1.md",
-    "lab1/Lab #1- Register with Cloud Providers - AWS-AWS Educate-Microsoft Azure.pdf"
+    "lab1/lab1.pdf",
+    "_Додатково/_Файли",
+    "_Додатково"
   ]
 }
