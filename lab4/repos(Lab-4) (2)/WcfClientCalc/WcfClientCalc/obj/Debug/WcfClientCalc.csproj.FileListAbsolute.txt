@@ -1,0 +1,14 @@
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.exe.config
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.exe
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.pdb
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.csprojAssemblyReference.cache
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.csproj.CoreCompileInputs.cache
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.exe
+C:\Users\tennin\source\repos\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.pdb
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.exe.config
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.exe
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\bin\Debug\WcfClientCalc.pdb
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.csproj.AssemblyReference.cache
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.exe
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfClientCalc\WcfClientCalc\obj\Debug\WcfClientCalc.pdb

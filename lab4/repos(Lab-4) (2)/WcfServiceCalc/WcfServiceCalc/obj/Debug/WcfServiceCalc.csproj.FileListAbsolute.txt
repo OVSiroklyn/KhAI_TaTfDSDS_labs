@@ -1,0 +1,14 @@
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.dll.config
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.dll
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.pdb
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.csprojAssemblyReference.cache
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.csproj.CoreCompileInputs.cache
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.dll
+C:\Users\tennin\source\repos\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.pdb
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.dll.config
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.dll
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\bin\WcfServiceCalc.pdb
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.dll
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.pdb
+C:\Users\Ahsas\Desktop\Универ\9 семестр\+ Теорія та технології розробки безпечних розподілених систем\KhAI_TaTfDSDS_labs\lab4\repos(Lab-4) (2)\WcfServiceCalc\WcfServiceCalc\obj\Debug\WcfServiceCalc.csprojAssemblyReference.cache

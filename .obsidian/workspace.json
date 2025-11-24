@@ -1,42 +1,44 @@
 {
   "main": {
-    "id": "8ef148fd67e18e58",
+    "id": "df64b89597b9d5a3",
     "type": "split",
     "children": [
       {
-        "id": "17d127080d0bfc9e",
+        "id": "792f726f17fe4777",
         "type": "tabs",
-        "dimension": 49.260355029585796,
         "children": [
           {
-            "id": "4bcbdb854c934fc8",
+            "id": "31545ac706b0ef25",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.pdf"
+                "file": "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lab - IaaS - Початок роботи з Microsoft Azure VM"
+              "icon": "lucide-file",
+              "title": "PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service"
             }
           }
         ]
       },
       {
-        "id": "e0dba9e46bb7800f",
+        "id": "713aa16e2108f2d9",
         "type": "tabs",
-        "dimension": 50.739644970414204,
         "children": [
           {
-            "id": "16c3442123fa1b68",
+            "id": "2dafe95993cdaa63",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "lab2/Lab - IaaS - Getting started with AWS EC2.pdf"
+                "file": "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lab - IaaS - Getting started with AWS EC2"
+              "icon": "lucide-file",
+              "title": "PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service"
             }
           }
         ]
@@ -45,15 +47,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0302e11e134b9816",
+    "id": "85d7a3f6fbf21320",
     "type": "split",
     "children": [
       {
-        "id": "08ad7c9a5925cf47",
+        "id": "17d7bc4bd851a2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "601ddf557f45c075",
+            "id": "d3be036bf29c86c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +68,7 @@
             }
           },
           {
-            "id": "966e9111153be293",
+            "id": "44470a49f669a438",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +85,7 @@
             }
           },
           {
-            "id": "3fcff0072f8a3f93",
+            "id": "44be3ca6de2444cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,22 +98,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.50072860717773
+    "width": 300
   },
   "right": {
-    "id": "d41760bf46197bf7",
+    "id": "d56d21236d05d0ec",
     "type": "split",
     "children": [
       {
-        "id": "e895ec1b98811856",
+        "id": "548aa2d291f0eb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "f242e14b9595a7d5",
+            "id": "f32e70c4ba07b8d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lab3/FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,24 +124,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Зворотні посилання для FaaS - Розробка безсерверного веб-сервісу з Azure Functions"
             }
           },
           {
-            "id": "93ebbb7e27131ee9",
+            "id": "8b651439325c30bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lab3/FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Вихідні посилання з FaaS - Розробка безсерверного веб-сервісу з Azure Functions"
             }
           },
           {
-            "id": "a883e51d03d8952c",
+            "id": "5e0293550ace5b00",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,21 +157,7 @@
             }
           },
           {
-            "id": "75af5a9c6ab3a110",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Вміст"
-            }
-          },
-          {
-            "id": "0190994bbc19b5cf",
+            "id": "b034eac69b4f2f70",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -179,6 +169,21 @@
               "icon": "lucide-archive",
               "title": "Всі властивості"
             }
+          },
+          {
+            "id": "dc6524cfa27a827e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab3/FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст FaaS - Розробка безсерверного веб-сервісу з Azure Functions"
+            }
           }
         ]
       }
@@ -189,39 +194,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Почати/зупинити запис": false,
-      "workspaces:Керування просторами": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
+      "audio-recorder:Почати/зупинити запис": false,
+      "workspaces:Керування просторами": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bcbdb854c934fc8",
+  "active": "31545ac706b0ef25",
   "lastOpenFiles": [
-    "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.md",
-    "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.pdf",
-    "lab1/lab1.md",
-    "lab2/Lab - IaaS - Getting started with AWS EC2.pdf",
-    "lab1/lab1.pdf",
-    "_Додатково/_Файли/Без назви.base",
-    "_Додатково/_Файли/Pasted image 20251104020307.png",
-    "_Додатково/_Файли/Pasted image 20251104151703.png",
-    "_Додатково/_Файли/Pasted image 20251104151817.png",
-    "_Додатково/_Файли/Pasted image 20251103231338.png",
-    "_Додатково/_Файли/Pasted image 20251103231754.png",
-    "_Додатково/_Файли/Pasted image 20250916223424.png",
-    "_Додатково/_Файли/Pasted image 20251104151952.png",
-    "_Додатково/_Файли/Pasted image 20251104151918.png",
-    "_Додатково/_Файли/Pasted image 20251104151750.png",
-    "Lab.md",
-    "_Додатково/_Файли/Pasted image 20251104150347.png",
-    "lab1/Lab #1- Register with Cloud Providers - AWS-AWS Educate-Microsoft Azure.pdf",
-    "_Додатково/_Файли",
-    "_Додатково"
+    "lab3/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.pdf",
+    "_Додатково/_Файли/Pasted image 20251124222804.png",
+    "lab3/FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
+    "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
+    "_Додатково/_Файли/Pasted image 20251124222202.png",
+    "_Додатково/_Файли/Pasted image 20251124222155.png",
+    "_Додатково/_Файли/Pasted image 20251124221201.png",
+    "_Додатково/_Файли/Pasted image 20251124221143.png",
+    "_Додатково/_Файли/Pasted image 20251124221040.png",
+    "_Додатково/_Файли/Pasted image 20251124213339.png",
+    "_Додатково/_Файли/Pasted image 20251124212429.png",
+    "_Додатково/_Файли/Pasted image 20251124210618.png",
+    "_Додатково/_Файли/Pasted image 20251124210309.png",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin/WcfServiceCalc.pdb",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin/WcfServiceCalc.dll",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/Service1.svc",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/Web.config",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/WcfServiceCalc.sln",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/default.html",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/WcfServiceCalc.SourceManifest.xml",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp",
+    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package",
+    "lab4/Lab - PaaS - Exploration and Deployment of WCF C.md"
   ]
 }
