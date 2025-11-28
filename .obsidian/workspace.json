@@ -6,6 +6,7 @@
       {
         "id": "792f726f17fe4777",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "31545ac706b0ef25",
@@ -13,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
-                "mode": "preview",
+                "file": "lab1/lab1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service"
+              "title": "lab1"
+            }
+          },
+          {
+            "id": "eb9e9b7054bb25e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Додатково/_Файли/Pasted image 20251124222804.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251124222804"
             }
           }
         ]
@@ -26,6 +39,7 @@
       {
         "id": "713aa16e2108f2d9",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2dafe95993cdaa63",
@@ -33,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
+                "file": "lab6/Lab - iPaaS - Інтеграція Telegram бота з Google Sheets через Azure Logic Apps.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service"
+              "title": "Lab - iPaaS - Інтеграція Telegram бота з Google Sheets через Azure Logic Apps"
             }
           }
         ]
@@ -208,29 +222,31 @@
   },
   "active": "31545ac706b0ef25",
   "lastOpenFiles": [
-    "lab3/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.pdf",
+    "lab4/Lab - PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
     "_Додатково/_Файли/Pasted image 20251124222804.png",
-    "lab3/FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
-    "lab4/PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.md",
     "_Додатково/_Файли/Pasted image 20251124222202.png",
-    "_Додатково/_Файли/Pasted image 20251124222155.png",
-    "_Додатково/_Файли/Pasted image 20251124221201.png",
-    "_Додатково/_Файли/Pasted image 20251124221143.png",
-    "_Додатково/_Файли/Pasted image 20251124221040.png",
-    "_Додатково/_Файли/Pasted image 20251124213339.png",
-    "_Додатково/_Файли/Pasted image 20251124212429.png",
-    "_Додатково/_Файли/Pasted image 20251124210618.png",
-    "_Додатково/_Файли/Pasted image 20251124210309.png",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin/WcfServiceCalc.pdb",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin/WcfServiceCalc.dll",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/Service1.svc",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/Web.config",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/WcfServiceCalc.sln",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/default.html",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp/bin",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/WcfServiceCalc.SourceManifest.xml",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package/PackageTmp",
-    "lab4/repos(Lab-4) (2)/WcfServiceCalc/WcfServiceCalc/obj/Release/Package",
+    "lab4/Lab - PaaS - Розгортання веб-сервісів WCF C Sharp за допомогою Microsoft Azure App Service.pdf",
+    "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.pdf",
+    "lab3/Lab - FaaS - Розробка безсерверного веб-сервісу з Azure Functions.pdf",
+    "lab5/Lab - IaC - DevOps з використанням Terraform.pdf",
+    "lab5/Lab - IaC - DevOps with Terraform (1).pdf",
+    "lab6/Lab - iPaaS - Інтеграція Telegram бота з Google Sheets через Azure Logic Apps.md",
+    "lab6/Lab - iPaaS - Інтеграція Telegram бота з Google Sheets через Azure Logic Apps.pdf",
+    "lab5/Lab - IaC - DevOps з використанням Terraform.md",
+    "lab4/Lab - PaaS - Exploration and Deployment of WCF C# web services with AWS Elastic Beanstalk.pdf",
+    "lab3/Lab - FaaS - Розробка безсерверного веб-сервісу з Azure Functions.md",
+    "lab2/Lab - IaaS - Початок роботи з Microsoft Azure VM.md",
+    "_Додатково/_Файли/Pasted image 20251128002744.png",
+    "_Додатково/_Файли/Pasted image 20251128002629.png",
+    "_Додатково/_Файли/Pasted image 20251128001827.png",
+    "_Додатково/_Файли/Pasted image 20251128001734.png",
+    "_Додатково/_Файли/Pasted image 20251127235542.png",
+    "_Додатково/_Файли/Pasted image 20251127234232.png",
+    "_Додатково/_Файли/Pasted image 20251127233523.png",
+    "_Додатково/_Файли/Pasted image 20251127232835.png",
+    "lab5/Terraform.zip",
+    "lab5/Terraform/Terraform.zip",
+    "lab6",
     "lab4/Lab - PaaS - Exploration and Deployment of WCF C.md"
   ]
 }
